@@ -1,0 +1,26 @@
+
+3월 05, 2025 17:40:33.16 NEW SESSION
+3월 05, 2025 17:40:33.17 [26068:35796:0305/174033.166:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+3월 05, 2025 17:40:33.51 Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 05, 2025 17:40:59.39 [26068:35796:0305/174059.389:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+3월 05, 2025 17:41:49.77 [26068:35796:0305/174149.775:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+3월 05, 2025 17:43:36.37 [26068:35796:0305/174336.370:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+3월 05, 2025 17:47:19.36 [26068:35796:0305/174719.361:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+3월 06, 2025 12:24:52.79 NEW SESSION
+3월 06, 2025 12:24:52.80 Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 06, 2025 12:24:52.90 [3132:18680:0306/122452.907:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+3월 06, 2025 12:27:32.05 Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 06, 2025 12:27:32.14 [11640:13096:0306/122732.143:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+3월 06, 2025 19:00:00.58 NEW SESSION
+3월 06, 2025 19:00:00.59 Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 06, 2025 19:00:00.61 [32024:35976:0306/190000.610:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+3월 06, 2025 19:00:23.31 [32024:35976:0306/190023.310:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+3월 06, 2025 19:01:13.90 [32024:35976:0306/190113.902:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+3월 06, 2025 19:06:43.43 NEW SESSION
+3월 06, 2025 19:06:43.44 Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 06, 2025 19:06:43.44 [26668:6900:0306/190643.448:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+3월 06, 2025 19:07:12.61 [26668:6900:0306/190712.617:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+3월 06, 2025 19:07:56.49 [26668:6900:0306/190756.490:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
