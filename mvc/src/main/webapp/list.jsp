@@ -24,7 +24,9 @@
 	%>
 		<tr>
 			<td><%=product.getId() %></td>
-			<td><%=product.getProductName() %></td>
+			<td>
+				<a href="read.product?id=<%=product.getId() %> "><%=product.getProductName() %></a>
+			</td>
 			<td><%=product.getProductPrice() %></td>
 			<td><%=product.getProductStock() %></td>
 		</tr>
