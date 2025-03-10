@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
-	<item key="org.eclipse.jdt.ui.lastextjar" value="C:\web_0900_kys\jsp\workspace\post\src\main\webapp\WEB-INF\lib"/>
+	<item key="org.eclipse.jdt.ui.lastextjar" value="C:\web_0900_kys\jsp\workspace\jstl\src\main\webapp\WEB-INF\lib"/>
 	<section name="completion_proposal_size">
 	</section>
 	<section name="quick_assist_proposal_size">
@@ -119,5 +119,8 @@
 		<item key="DIALOG_WIDTH" value="425"/>
 		<item key="DIALOG_HEIGHT" value="681"/>
 		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
+	<section name="ClasspathContainerSelectionPage">
+		<item key="index" value="0"/>
 	</section>
 </section>

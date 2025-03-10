@@ -15,11 +15,11 @@ public class PostDAO {
 		sqlSession = MyBatisConfig.getSqlSessionFactory().openSession(true);
 	}
 	
-//	게시글 생성
+//	게시글 조회
 	public List<PostVO> selectAll() {
 		return sqlSession.selectList("post.selectAll");
 	}
-//	게시글 조회
+//	게시글 확인
 	public Optional<PostVO> select(Long id) {
 		return Optional.ofNullable(sqlSession.selectOne("post.select", id));
 	}
