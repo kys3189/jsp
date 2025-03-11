@@ -24,3 +24,27 @@
 3월 06, 2025 19:06:43.44 [26668:6900:0306/190643.448:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
 3월 06, 2025 19:07:12.61 [26668:6900:0306/190712.617:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
 3월 06, 2025 19:07:56.49 [26668:6900:0306/190756.490:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+3월 11, 2025 13:52:33.06 NEW SESSION
+3월 11, 2025 13:52:33.07 [23412:18388:0311/135233.060:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+3월 11, 2025 13:52:33.59 Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 11, 2025 13:52:54.01 [23412:18388:0311/135254.011:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -118
+3월 11, 2025 13:52:55.68 [23412:18388:0311/135255.681:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+3월 11, 2025 13:53:40.90 [23412:18388:0311/135340.904:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -118
+3월 11, 2025 13:53:50.55 [23412:18388:0311/135350.552:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+3월 11, 2025 13:55:18.29 [23412:18388:0311/135518.296:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+3월 11, 2025 13:58:31.69 [23412:18388:0311/135831.697:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+3월 11, 2025 14:04:42.64 [23412:18388:0311/140442.648:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+3월 11, 2025 14:53:15.01 [23412:18388:0311/145315.016:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+3월 11, 2025 15:25:44.62 [23412:18388:0311/152544.628:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+3월 11, 2025 15:26:18.51 [23412:35908:0311/152618.513:ERROR:device_event_log_impl.cc(202)] [15:26:18.513] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+3월 11, 2025 15:26:18.52 [23412:35908:0311/152618.522:ERROR:device_event_log_impl.cc(202)] [15:26:18.522] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+3월 11, 2025 15:26:18.52 [23412:35908:0311/152618.528:ERROR:device_event_log_impl.cc(202)] [15:26:18.527] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+3월 11, 2025 15:26:18.53 [23412:35908:0311/152618.537:ERROR:device_event_log_impl.cc(202)] [15:26:18.537] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+3월 11, 2025 15:26:18.53 [23412:35908:0311/152618.539:ERROR:device_event_log_impl.cc(202)] [15:26:18.538] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+3월 11, 2025 15:39:31.27 [23412:18388:0311/153931.277:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -118
+3월 11, 2025 15:39:52.31 [23412:18388:0311/153952.311:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -118
+3월 11, 2025 15:57:14.80 [23412:18388:0311/155714.800:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+3월 11, 2025 16:06:24.67 [23412:18388:0311/160624.678:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+3월 11, 2025 16:06:24.70 [23412:18388:0311/160624.701:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+3월 11, 2025 17:47:02.40 [23412:35908:0311/174702.406:ERROR:interface_endpoint_client.cc(725)] Message 0 rejected by interface blink.mojom.WidgetHost
