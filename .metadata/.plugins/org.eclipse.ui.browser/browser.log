@@ -48,3 +48,12 @@
 3월 11, 2025 16:06:24.67 [23412:18388:0311/160624.678:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
 3월 11, 2025 16:06:24.70 [23412:18388:0311/160624.701:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
 3월 11, 2025 17:47:02.40 [23412:35908:0311/174702.406:ERROR:interface_endpoint_client.cc(725)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+3월 12, 2025 15:54:44.71 NEW SESSION
+3월 12, 2025 15:54:44.73 [34064:36184:0312/155444.698:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+3월 12, 2025 15:54:45.04 Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 12, 2025 15:55:10.46 [34064:36184:0312/155510.465:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+3월 12, 2025 15:56:03.79 [34064:36184:0312/155603.794:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+3월 12, 2025 15:57:47.77 [34064:36184:0312/155747.771:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+3월 12, 2025 16:01:08.77 [34064:36184:0312/160108.779:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+3월 12, 2025 16:07:57.57 [34064:36184:0312/160757.579:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT

@@ -12,6 +12,8 @@ import com.app.member.controller.MemberJoinController;
 import com.app.member.controller.MemberJoinOkController;
 import com.app.member.controller.MemberLoginController;
 import com.app.member.controller.MemberLoginOkController;
+import com.app.order.controller.OrderCancelController;
+import com.app.order.controller.OrderListController;
 import com.app.order.controller.OrderWriteOkController;
 import com.app.product.controller.ProductDeleteController;
 import com.app.product.controller.ProductListController;
@@ -33,8 +35,10 @@ public class OrderFrontController extends HttpServlet {
 		
 		if(target.equals("write-ok")) {
 			result = new OrderWriteOkController().execute(req, resp);
-		}else if(target.equals("join-ok")) {
-		
+		}else if(target.equals("list")) {
+			result = new OrderListController().execute(req, resp);
+		}else if(target.equals("cancel")) {
+			result = new OrderCancelController().execute(req, resp);
 		}else {
 //			전부 404
 		}
